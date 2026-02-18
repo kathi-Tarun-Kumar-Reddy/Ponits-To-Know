@@ -1,0 +1,8 @@
+RBA (Runbook Automation):- RBA refers to the automation of IT operational processes, traditionally documented in "runbooks." It is primarily used by IT teams to handle system-level tasks. 
+
+Key Benefit: Reduces "Mean Time to Resolution" (MTTR) by allowing systems to self-heal or execute fixes without manual intervention. 
+
+
+RPA (Robotic Process Automation):- RPA uses software "bots" to mimic human actions at the user interface (UI) level. It is widely used across business departments like Finance, HR, and Customer Service.
+
+Key Benefit: Improves accuracy, works 24/7 without breaks, and integrates with legacy systems that lack APIs.
