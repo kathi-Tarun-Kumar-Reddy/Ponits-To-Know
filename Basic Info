@@ -13,3 +13,13 @@ RFI(Request for Information) ---> used to Gathering general info on market capab
 RFQ(Request for Quotation0 ---> used to Comparing prices for standard, well-defined goods.
 RFP(Request for Proposal) ---> used to Finding the best solution for complex or unique projects.
 
+ITSM (IT Service Management) --> it is the overall strategic approach and set of practices used to design, deliver, manage, and improve the IT services provided to users. It treats IT as a service rather than just a collection of hardware. 
+Key Processes: Common ITSM workflows include Incident Management (fixing outages), Change Management (handling updates safely), and Problem Management (finding root causes).
+Frameworks: Many organisations use the ITIL (Information Technology Infrastructure Library) framework as a "playbook" for implementing ITSM. 
+Tools : ServiceNow, Freshservice, Jira service Management, Ivanti Service management etc.,
+
+CMDB (Configuration Management Database) --> it is a centralised repository that acts as the "heart" or digital blueprint of the IT environment. It stores information about all Configuration Items (CIs)—such as servers, software, routers, and applications—and, crucially, the relationships between them. 
+Single Source of Truth: It provides a unified view of the entire IT landscape, helping teams understand how a failure in one component (e.g., a database) might ripple through to affect a critical business service (e.g., a payroll application).
+Tools : Virima CMDB, Device 42, BMC Helix ITSM, SloarWinds Service Desk
+
+
